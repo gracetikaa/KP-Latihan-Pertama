@@ -4,7 +4,7 @@
 		module="tugas-2$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180524153540"
+		publication="20180525102913"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
